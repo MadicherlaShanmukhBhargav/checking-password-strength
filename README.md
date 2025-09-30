@@ -28,12 +28,29 @@ This helps in learning **best practices for password creation** and understandin
 
 4. **Researched password attacks**:
 
-![a](images/ramu.png) ![b](images/6.png)
-![c](images/prasad.png) ![d](images/22.png)
-![e](images/verystrong.png) ![f](images/13.png)
-![g](images/shanmukh.png) ![h](images/68.png)
+| | |
+|---|---|
+| ![a](images/ramu.png) | ![b](images/6.png) |
 
-5. **Summarized best practices** for creating secure passwords.
+- Password `Ramu@143` shows **Very strong** as per left webpage but as per right website it is **medium** and can be carcked in `6 days`
+
+| | |
+|---|---|
+| ![c](images/prasad.png) | ![d](images/22.png) |
+
+- Password `Prasad@2003` shows **Very strong** as per left webpage but as per right website it is **weak** and can be carcked in `<30minutes`
+
+| | |
+|---|---|
+|![e](images/verystrong.png) | ![f](images/13.png) | 
+
+- Password `Cyb3rS3cur!ty@444` shows **Very strong** as per left webpage but as per right website it is **strong** and can be carcked in `13 days`
+
+| | |
+|---|---|
+| ![g](images/shanmukh.png) | ![h](images/68.png) |
+
+- Password `$H4nmukh@674` shows **Very strong** as per left webpage but as per right website it is **very strong** and can be carcked in  `6800 years` too long to crack
 
 ---
 
